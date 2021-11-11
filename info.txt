@@ -1,0 +1,43 @@
+
+---------PARTE I (DIAMETRO DE TUBO Y LONG. DE TRANSICION
+Area
+Diametro
+T1
+T2
+Lt1
+Lt2
+
+---------PARTE II (COTAS)								
+
+Cota de fondo 1
+Nivel Agua 1
+
+V1
+Vt
+Hte
+1.5 Hv
+1.5 Hv
+Hv
+Cota de fondo 2
+Cota de fondo 3
+Cota fondo 4
+Cota fondo 5
+----------PARTE III (VALOR P, CARGA HIDRAULICA Y PERDIDAS DE CARGA)								
+P de entrada
+P de salida
+
+Valor P
+Entrada:	x
+	y
+	Inclinación
+	
+Salida:	x
+	y
+	Inclinación
+Carga disponible
+PERDIDA TOTAL
+incremento 10% por seguridad
+∆ Cota 1 y Cota 2=	
+Altura de sumergencia=	
+Lp
+
